@@ -19,7 +19,7 @@
     "moment": "^2.19.4",
     "qrcodejs2": "^0.0.2",
     "store": "^2.0.12",
-    "vant": "^1.6.17",
+    "vant": "^2.1.8",
     "vue": "^2.5.2",
     "vue-clipboard2": "^0.1.0",
     "vue-lazyload": "^1.2.5",
